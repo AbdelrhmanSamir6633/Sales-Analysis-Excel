@@ -11,6 +11,10 @@ After downloading AdventureWorks dataset  " .bak file "  from Microsoft Learn (T
   - Handling PK and FK between tables.
   - ... and so on.
 
+  Final Result after data transformation:
+  ![Power_Query](https://github.com/user-attachments/assets/558fa916-89a1-4372-856d-a0aea6ae1ce6)
+
+
   - Finally, I had 3 Tables ( 1 FACT Table and 2 DIMENSION Tables ):
      - FACT Table:
         - Sales table: contains FKs of DIMENSION Tables + the full details about all sales transactions including:
