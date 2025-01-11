@@ -33,7 +33,7 @@ After downloading AdventureWorks dataset  " .bak file "  from Microsoft Learn (T
   Data Model:
 ![Data_Model](https://github.com/user-attachments/assets/65386f8f-abf3-4e51-b7e4-616978679806)
    
-3-) After data prepration in PowerQuery, I loaded data into Excel worksheet to start the analysis and visualization processes using Pivot Tables, as shown below:
+3-) After data preparation in PowerQuery, I loaded data into Excel worksheet to start the analysis and visualization processes using Pivot Tables, as shown below:
 
 Pivot Tables:
 ![Pivot_Tables_page-0001](https://github.com/user-attachments/assets/5b1453cc-fbc2-46d3-8a09-02fbe64bc612)
