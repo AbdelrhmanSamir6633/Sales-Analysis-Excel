@@ -13,7 +13,7 @@ After downloading AdventureWorks dataset  " .bak file "  from Microsoft Learn (T
 
   - Finally, I had 3 Tables ( 1 FACT Table and 2 DIMENSION Tables ):
      - FACT Table:
-      - Sales: contains FKs of DIMENSION Tables + the full details about all sales transactions including:
+        - Sales table: contains FKs of DIMENSION Tables + the full details about all sales transactions including:
          - [SalesOrderID]: The ID of each SalesOrder.
          - [OrderDate], [DueDate], and [ShipDate]: which express detailed dates of SalesOrder process.
          - [CustomerID]: which expresses to which customer was this order sold?
@@ -24,9 +24,9 @@ After downloading AdventureWorks dataset  " .bak file "  from Microsoft Learn (T
          - [UnitPrice]: which expresses the unit price of each product in each order.
          - [TotalDue]: which expresses Total Sales of each order. 
 
-   - DIMENSION Tables:
-     - SalesTerritory table: contains Name and ID of each Territory with columns [TerritoryID] and [Name].
-     - Products table: contains details about each product with columns [ProductID], [SubcategoryID], [CategoryID], [Product Name], [Subcategory Name], and [Category Name] that describe full characteristics of each product.
+     - DIMENSION Tables:
+       - SalesTerritory table: contains Name and ID of each Territory with columns [TerritoryID] and [Name].
+       - Products table: contains details about each product with columns [ProductID], [SubcategoryID], [CategoryID], [Product Name], [Subcategory Name], and [Category Name] that describe full characteristics of each product.
 
   The Dimensional Data Model is STAR SCHEMA as shown below:
 
