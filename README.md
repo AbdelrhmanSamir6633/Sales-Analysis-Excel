@@ -28,7 +28,7 @@ After downloading AdventureWorks dataset  " .bak file "  from Microsoft Learn (T
        - SalesTerritory table: contains Name and ID of each Territory with columns [TerritoryID] and [Name].
        - Products table: contains details about each product with columns [ProductID], [SubcategoryID], [CategoryID], [Product Name], [Subcategory Name], and [Category Name] that describe full characteristics of each product.
 
-  The Dimensional Data Model is STAR SCHEMA as shown below:
+  The Dimensional Data Model is STAR SCHEMA, as shown below:
 
   Data Model:
 ![Data_Model](https://github.com/user-attachments/assets/65386f8f-abf3-4e51-b7e4-616978679806)
