@@ -45,7 +45,8 @@ Pivot Tables:
 4-) I leverege the different types of charts and visuals to create an informative, user-friendly and visually appealing interactive dashboard tailored to manager specific needs, as shown below:
 
 FINAL Dashboard:
-![FINAL Dashboard_page-0001](https://github.com/user-attachments/assets/9cf0054e-82a8-4f41-af30-c6622824c7aa)
+![FINAL Dashboard_page-0001_Cropped](https://github.com/user-attachments/assets/fadd7193-18af-4038-821f-afa364147fd1)
+
 
 
 Dataset Source:
